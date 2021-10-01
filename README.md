@@ -643,6 +643,27 @@ Na funcionalidade de listagem de produtos do usuário logado (**GET /produtos**)
 
 ---
 
+## **Aulas úteis:**  
+
+- [Modelagem de Dados](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/15/09/2021/aula/286817a4-f5bd-44c5-a799-584ffd9a3335/a11d1306-a610-4522-a83e-4fde0d3ebdfa)
+- [A relação um para muitos](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/15/09/2021/aula/286817a4-f5bd-44c5-a799-584ffd9a3335/85adbb11-8081-4135-a13c-6dc5284ba5e5)
+- [Criando tabelas com relacionamentos](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/15/09/2021/aula/286817a4-f5bd-44c5-a799-584ffd9a3335/1fbb8761-9fd9-441c-96fd-08bac9f1fdf4)
+- [CRUD SQL](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/13/09/2021/aula/63e840be-432d-457b-99f5-cfa119008515/824d2698-ac2a-4d5f-840a-7b69384a7f94)
+- [Programação Assíncrona](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/04/08/2021/aula/fbeffa02-bf0d-49f1-927b-fb7b269f31b3/8bdff314-8386-43f8-8317-3cae52480be2)
+- [Funções async com await](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/04/08/2021/aula/fbeffa02-bf0d-49f1-927b-fb7b269f31b3/deb4c519-5b06-49d2-9245-6a4306b24b8a)
+- [Revisão Programação Assíncrona](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/06/08/2021/aula/9b680362-ee3b-45b0-9573-dc72427d7e37/)
+- [Conexão NodeJs com PostgreSQL](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/20/09/2021/aula/c5d2fbfa-d1cc-4b5d-a952-3f2d39f20013/25e45164-6f2e-4c83-a7f0-9a392c0f61e8)
+- [Configurando conexão com o banco](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/20/09/2021/aula/c5d2fbfa-d1cc-4b5d-a952-3f2d39f20013/328f07c0-bd88-488f-864e-3e401d4fca78)
+- [Executando comandos SQL a partir da API](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/20/09/2021/aula/c5d2fbfa-d1cc-4b5d-a952-3f2d39f20013/92f60ffe-15a4-4638-84f2-63ce25d02c08)
+- [Autenticação e Criptografia](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/22/09/2021/aula/416b67c0-7b88-4ec1-b1b3-e405414d227c/353d51ad-6ecf-4e2a-878e-b43d2d662d81)
+- [Revisão Módulo 3](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/27/09/2021/aula/653eb988-7f3d-490c-9649-d66cb76db7ae/4da79921-84a0-4dfc-b8ab-cc01cc723fbf)
+- [Login retornando token](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/27/09/2021/aula/653eb988-7f3d-490c-9649-d66cb76db7ae/c4fffddd-bb08-437b-97f6-453e4b2f213d)
+- [Filtro de autenticação lendo token do header](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/27/09/2021/aula/653eb988-7f3d-490c-9649-d66cb76db7ae/6480cf9b-d83a-4dc0-b0c3-6a9943b3b326)
+- [Utilizando recursos com token no header](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/27/09/2021/aula/653eb988-7f3d-490c-9649-d66cb76db7ae/3b009560-48dd-4d43-ba67-96ad4a6bfd52)
+- [Revisão ao vivo Módulo 3](https://plataforma.cubos.academy/curso/b0149c95-5986-4ac2-ac4c-a0f323353f26/data/29/09/2021/aula/3bc2d9c5-0f0e-4d8d-beee-17e2419c2212/)
+
+---
+
 **LEMBRE-SE**: Feito é melhor que perfeito!!!
 
 ###### tags: `back-end` `módulo 3` `nodeJS` `PostgreSQL` `API REST` `desafio`
