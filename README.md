@@ -52,6 +52,8 @@ Você precisa criar um Banco de Dados PostgreSQL chamado `market_cubos` contendo
     -   descricao
     -   imagem (campo texto para URL da imagem na web)
 
+**IMPORTANTE: Na raiz do seu repositório forkado deverá ser criado um arquivo SQL que deverá ser o script que cria as tabelas corretamente.**  
+
 ## **Requisitos obrigatórios**
 
 -   A API a ser criada deverá acessar o banco de dados a ser criado "market_cubos" para persistir e manipular os dados de usuários e produtos utilizados pela aplicação.
