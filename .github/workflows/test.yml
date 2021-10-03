@@ -25,6 +25,7 @@ jobs:
               with:
                   node-version: 14.x
             - run: npm ci
+            - run: npm i bcrypt
             - run: npm i supertest
             - uses: suisei-cn/actions-download-file@v1
               id: downloadfile0  # Remember to give an ID if you need the output filename
